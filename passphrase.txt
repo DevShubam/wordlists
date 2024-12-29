@@ -11708,10 +11708,6 @@ blabbings
 blabs
 black
 blackamoor
-blackball
-blackballed
-blackballing
-blackballs
 blackband
 blackbands
 blackberries
@@ -11720,12 +11716,8 @@ blackbird
 blackbirds
 blackboard
 blackboards
-blackbody
-blackboy
-blackboys
 blackbuck
 blackbucks
-blackbutt
 blackcap
 blackcaps
 blackdamp
@@ -11736,8 +11728,6 @@ blackening
 blackens
 blacker
 blackest
-blackface
-blackfaced
 blackfish
 blackfly
 blackgame
@@ -11748,13 +11738,10 @@ blackheads
 blackheart
 blacking
 blackings
-blackish
 blackjack
 blackjacking
 blackjacks
 blacklead
-blackleg
-blacklegs
 blacklight
 blacklist
 blacklisted
@@ -12376,8 +12363,6 @@ bluestones
 bluesy
 bluet
 bluethroat
-bluetit
-bluetits
 blueweed
 blueweeds
 bluewing
@@ -14510,8 +14495,6 @@ brownout
 brownouts
 browns
 brownstone
-browny
-brows
 browse
 browsed
 browser
@@ -14521,7 +14504,6 @@ browsing
 browsings
 browst
 browsts
-brrr
 bruce
 bruchid
 bruchids
@@ -43471,10 +43453,8 @@ fingans
 finger
 fingerboard
 fingerbowl
-fingered
 fingerhold
 fingerhole
-fingerings
 fingerless
 fingerling
 fingermark
@@ -58335,7 +58315,6 @@ indestructibly
 indeterminable
 indeterminacy
 indeterminate
-indew
 index
 indexation
 indexed
@@ -61695,8 +61674,6 @@ jerid
 jerids
 jerk
 jerkily
-jerkin
-jerking
 jerks
 jerkwater
 jerky
@@ -63307,14 +63284,6 @@ kiddywinks
 kidlet
 kidling
 kidlings
-kidnap
-kidnaper
-kidnaping
-kidnapped
-kidnapper
-kidnappers
-kidnapping
-kidnappings
 kidnaps
 kidney
 kidneys
@@ -121951,8 +121920,6 @@ tompions
 tompon
 tompons
 toms
-tomtit
-tomtits
 ton
 tonal
 tonalite
@@ -124375,9 +124342,6 @@ trulls
 truly
 trumeau
 trumeaux
-trump
-trumped
-trumpery
 trumpet
 trumpeted
 trumpeter
@@ -124385,7 +124349,6 @@ trumpeters
 trumpeting
 trumpets
 trumping
-trumps
 truncal
 truncate
 truncated
