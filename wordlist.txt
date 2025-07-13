@@ -1,4 +1,3 @@
-8bit
 aardvark
 aaron
 ab
@@ -1678,7 +1677,6 @@ aspired
 aspirin
 aspiring
 asquith
-ass
 assai
 assailant
 assailed
@@ -1709,7 +1707,6 @@ assertions
 assertive
 assertiveness
 asserts
-asses
 assess
 assessed
 assesses
@@ -3836,8 +3833,6 @@ butcher
 buteo
 butler
 buts
-butt
-butte
 butter
 butterbur
 butterfat
@@ -3847,8 +3842,6 @@ butters
 button
 buttonmasher
 buttons
-buttresses
-butts
 butyl
 buxom
 buy
@@ -27084,7 +27077,6 @@ stakes
 stale
 stalemate
 staleness
-stalin
 stalk
 stalked
 stalking
@@ -29612,7 +29604,6 @@ true
 truer
 truffle
 truly
-trump
 trumpet
 trumpeter
 trumpets
