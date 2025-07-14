@@ -22538,13 +22538,6 @@ pyromania
 pythagoras
 python
 qatar
-qc
-qinshihuang
-qld
-qqqq
-qt
-qty
-qua
 quack
 quad
 quadrangle
@@ -29042,7 +29035,6 @@ tithe
 title
 titled
 titles
-tits
 titten
 titular
 titus
