@@ -779,7 +779,6 @@ alkaline
 alkalize
 alkaloids
 all
-allah
 allan
 allay
 allegation
@@ -10793,9 +10792,6 @@ few
 fewer
 fewest
 fez
-ff
-fg
-fi
 fiasco
 fiat
 fib
@@ -15349,14 +15345,12 @@ jet
 jets
 jetting
 jetty
-jew
 jewel
 jewellery
 jewelry
 jewels
 jewett
 jewish
-jews
 jibe
 jicama
 jiffy
@@ -15374,9 +15368,6 @@ jinx
 jitters
 jittery
 jive
-jj
-jjjj
-jm
 joachim
 joan
 job
@@ -15460,11 +15451,9 @@ joyous
 joyride
 joys
 joystick
-jp
 jpeg
 jpg
 jr
-js
 juan
 jubilance
 jubilant
