@@ -31630,15 +31630,11 @@ whooping
 whoops
 whoosh
 whop
-whore
-whores
 whorl
 whose
 whup
 why
 whys
-wi
-wichita
 wick
 wicked
 wickedness
@@ -31953,8 +31949,6 @@ woven
 wow
 wowed
 wows
-wp
-wr
 wrack
 wraith
 wrangle
@@ -32102,7 +32096,6 @@ yin
 yippee
 yips
 ymca
-yn
 yo
 yodel
 yoder
